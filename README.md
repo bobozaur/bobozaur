@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bobozaur
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Rust and Python
+- 💞️ I’m looking to collaborate on Rust
 - 📫 How to reach me: mirceapetrebogdan@gmail.com
 
 <!---
